@@ -1,0 +1,13 @@
+/Users/migleczigergo/Projects/SchoolCompetition/bin/Debug/netcoreapp3.1/SchoolCompetition.deps.json
+/Users/migleczigergo/Projects/SchoolCompetition/bin/Debug/netcoreapp3.1/SchoolCompetition.runtimeconfig.json
+/Users/migleczigergo/Projects/SchoolCompetition/bin/Debug/netcoreapp3.1/SchoolCompetition.runtimeconfig.dev.json
+/Users/migleczigergo/Projects/SchoolCompetition/bin/Debug/netcoreapp3.1/SchoolCompetition.dll
+/Users/migleczigergo/Projects/SchoolCompetition/bin/Debug/netcoreapp3.1/SchoolCompetition.pdb
+/Users/migleczigergo/Projects/SchoolCompetition/obj/Debug/netcoreapp3.1/SchoolCompetition.csproj.AssemblyReference.cache
+/Users/migleczigergo/Projects/SchoolCompetition/obj/Debug/netcoreapp3.1/SchoolCompetition.GeneratedMSBuildEditorConfig.editorconfig
+/Users/migleczigergo/Projects/SchoolCompetition/obj/Debug/netcoreapp3.1/SchoolCompetition.AssemblyInfoInputs.cache
+/Users/migleczigergo/Projects/SchoolCompetition/obj/Debug/netcoreapp3.1/SchoolCompetition.AssemblyInfo.cs
+/Users/migleczigergo/Projects/SchoolCompetition/obj/Debug/netcoreapp3.1/SchoolCompetition.csproj.CoreCompileInputs.cache
+/Users/migleczigergo/Projects/SchoolCompetition/obj/Debug/netcoreapp3.1/SchoolCompetition.dll
+/Users/migleczigergo/Projects/SchoolCompetition/obj/Debug/netcoreapp3.1/SchoolCompetition.pdb
+/Users/migleczigergo/Projects/SchoolCompetition/obj/Debug/netcoreapp3.1/SchoolCompetition.genruntimeconfig.cache
